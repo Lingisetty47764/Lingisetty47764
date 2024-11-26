@@ -38,7 +38,7 @@
 - *Statistics:* Hypothesis Testing, Regression Analysis, Time Series Analysis
 - *Tools & Technologies:*  Jupyter Notebooks, VS Code, AWS, Google Colab
 - *Others:* Data Wrangling,Data Preprocessing, Model Evaluation, Feature Engineering
-- ## 💻 Tech Stack:
+- 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
